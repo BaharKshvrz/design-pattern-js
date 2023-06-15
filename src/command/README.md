@@ -5,7 +5,6 @@ The Command pattern allows you to maintain a stack of commands
 that you apply to a state and you cand do and undo them and
 manage the undo stack in an application.
 
-## Overview
 
 ## Structure
 ![](/src/command/command-structue.png)
